@@ -1,0 +1,39 @@
+.card-background {
+    background-color: #F3F3F3;
+}
+
+.car-banner {
+    background-image: url("./images/car-banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.vh-50 {
+    height: 50vh;
+}
+
+.vh-90 {
+    height: 90vh;
+}
+
+.testimony-banner {
+    background-image: url("./images/bmw-banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-corousal {
+    background-image: url("./images/Car1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contact-details {
+    position: absolute;
+    bottom: 70px;
+    left: 62px;
+}
